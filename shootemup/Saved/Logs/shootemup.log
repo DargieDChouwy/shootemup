@@ -26043,3 +26043,345 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.15-18.49.28:072][543]BlueprintLog: New page: Compile TopDownController
 [2019.09.15-18.49.28:277][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
 [2019.09.15-18.49.28:736][585]LogSavePackage: Moving '../../../../../Documents/Projets/Unreal Engine project/Shootemup/shootemup/Saved/TopDownControllerD971E13A4F27E50254A5089393EFCA8D.tmp' to '../../../../../Documents/Projets/Unreal Engine project/Shootemup/shootemup/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67008A7D-41B4-9690-4B38-6B8EEC5416F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=84ff2ac8407bded5da51789b4d31922f%7Ceb5bc3ff46b348bdaf5fd7211c15d453%7Cc96d84f0-4250-412c-bce1-3a0fc467a459&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: request failed, libcurl error: 0 (No error)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a48b38ff70 [can pipeline])
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 1 (Re-using existing connection! (#144) with host datarouter.ol.epicgames.com)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.97.25) port 443 (#144))
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 7 (Closing connection 144)
+[2019.09.15-18.51.45:076][136]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.15-18.51.45:411][137]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67008A7D-41B4-9690-4B38-6B8EEC5416F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=84ff2ac8407bded5da51789b4d31922f%7Ceb5bc3ff46b348bdaf5fd7211c15d453%7Cc96d84f0-4250-412c-bce1-3a0fc467a459&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67008A7D-41B4-9690-4B38-6B8EEC5416F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=84ff2ac8407bded5da51789b4d31922f%7Ceb5bc3ff46b348bdaf5fd7211c15d453%7Cc96d84f0-4250-412c-bce1-3a0fc467a459&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: request failed, libcurl error: 0 (No error)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a48b38ff70 [can pipeline])
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 1 (Re-using existing connection! (#147) with host datarouter.ol.epicgames.com)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.165.152) port 443 (#147))
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 7 (Closing connection 147)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: 000002A484DDEC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.15-19.00.45:212][745]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67008A7D-41B4-9690-4B38-6B8EEC5416F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=84ff2ac8407bded5da51789b4d31922f%7Ceb5bc3ff46b348bdaf5fd7211c15d453%7Cc96d84f0-4250-412c-bce1-3a0fc467a459&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.15-19.38.00:864][201]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.09.15-19.42.21:589][359]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.09.15-19.42.28:320][603]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.42.34:934][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.34:934][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.15-19.42.34:934][364]PIE: New page: PIE session: TopDownExampleMap (15 sept. 2019 23:42:34)
+[2019.09.15-19.42.34:935][364]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2019.09.15-19.42.34:976][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041760s)
+[2019.09.15-19.42.34:979][364]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.34:980][364]LogPlayLevel: PIE: World Init took: (0.003710s)
+[2019.09.15-19.42.34:980][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap (0.045800s)
+[2019.09.15-19.42.35:031][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.09.15-19.42.35:031][364]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.15-19.42.35:036][364]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.35
+[2019.09.15-19.42.35:037][364]LogWorld: Bringing up level for play took: 0.003685
+[2019.09.15-19.42.35:037][364]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:037][364]LogTemp: Display: ParseSettings for IpNetDriver_343
+[2019.09.15-19.42.35:037][364]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:037][364]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.09.15-19.42.35:037][364]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.09.15-19.42.35:038][364]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.09.15-19.42.35:038][364]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.35:038][364]LogNet: GameNetDriver IpNetDriver_343 IpNetDriver listening on port 17777
+[2019.09.15-19.42.35:038][364]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap -0,078
+[2019.09.15-19.42.35:057][364]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.15-19.42.35:066][364]LogInit: FAudioDevice initialized.
+[2019.09.15-19.42.35:078][364]LogNet: Browse: 127.0.0.1:17777//Game/TopDownBP/Maps/TopDownExampleMap
+[2019.09.15-19.42.35:078][364]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:078][364]LogTemp: Display: ParseSettings for IpNetDriver_344
+[2019.09.15-19.42.35:078][364]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.09.15-19.42.35:079][364]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.09.15-19.42.35:080][364]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.35:080][364]LogNet: Game client on port 17777, rate 10000
+[2019.09.15-19.42.35:080][364]PIE: Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap -0,037
+[2019.09.15-19.42.35:085][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.42.35:089][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.35:089][364]LogNet: Browse: 127.0.0.1:17777//Game/TopDownBP/Maps/TopDownExampleMap
+[2019.09.15-19.42.35:089][364]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:089][364]LogTemp: Display: ParseSettings for IpNetDriver_345
+[2019.09.15-19.42.35:089][364]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.09.15-19.42.35:090][364]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.09.15-19.42.35:091][364]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.35:091][364]LogNet: Game client on port 17777, rate 10000
+[2019.09.15-19.42.35:094][364]PIE: Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap -0,023
+[2019.09.15-19.42.35:099][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.35:099][364]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64138
+[2019.09.15-19.42.35:099][364]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 146198246069077049175023168110144063144087116086130241100122
+[2019.09.15-19.42.35:099][364]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64139
+[2019.09.15-19.42.35:099][364]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 150092037101082212178052178053157233003012016029144091192082
+[2019.09.15-19.42.35:100][364]LogOnline: OSS: Creating online subsystem instance for: :Context_409
+[2019.09.15-19.42.35:102][364]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 146198246069077049175023168110144063144087116086130241100122
+[2019.09.15-19.42.35:103][364]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 150092037101082212178052178053157233003012016029144091192082
+[2019.09.15-19.42.35:146][365]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64138
+[2019.09.15-19.42.35:146][365]LogHandshake: SendChallengeAck. InCookie: 146198246069077049175023168110144063144087116086130241100122
+[2019.09.15-19.42.35:147][365]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64138
+[2019.09.15-19.42.35:149][365]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.35:149][365]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 09/15/19 21:42:35, [UNetConnection] RemoteAddr: 127.0.0.1:64138, Name: IpConnection_356, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:149][365]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64138, Name: IpConnection_356, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:149][365]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64139
+[2019.09.15-19.42.35:149][365]LogHandshake: SendChallengeAck. InCookie: 150092037101082212178052178053157233003012016029144091192082
+[2019.09.15-19.42.35:149][365]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64139
+[2019.09.15-19.42.35:150][365]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.35:150][365]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 09/15/19 21:42:35, [UNetConnection] RemoteAddr: 127.0.0.1:64139, Name: IpConnection_357, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:150][365]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64139, Name: IpConnection_357, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:151][365]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_354, Driver: PendingNetDriver IpNetDriver_344, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:151][365]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_355, Driver: PendingNetDriver IpNetDriver_345, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.35:158][366]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2019.09.15-19.42.35:158][366]LogNet: Remote platform little endian=1
+[2019.09.15-19.42.35:158][366]LogNet: This platform little endian=1
+[2019.09.15-19.42.35:158][366]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2019.09.15-19.42.35:158][366]LogNet: Remote platform little endian=1
+[2019.09.15-19.42.35:158][366]LogNet: This platform little endian=1
+[2019.09.15-19.42.35:159][366]LogOnline: OSS: Creating online subsystem instance for: :Context_410
+[2019.09.15-19.42.35:161][366]LogOnline: OSS: Creating online subsystem instance for: :Context_411
+[2019.09.15-19.42.35:168][367]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA userId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA platform: NULL
+[2019.09.15-19.42.35:168][367]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166 userId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166 platform: NULL
+[2019.09.15-19.42.35:168][367]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2019.09.15-19.42.35:169][367]LogLoad: LoadMap: 127.0.0.1:17777//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2019.09.15-19.42.35:169][367]LogWorld: BeginTearingDown for /Temp/Untitled_178
+[2019.09.15-19.42.35:169][367]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.35:212][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.09.15-19.42.35:235][367]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.35:235][367]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:238][367]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.35
+[2019.09.15-19.42.35:238][367]LogWorld: Bringing up level for play took: 0.002270
+[2019.09.15-19.42.35:239][367]LogLoad: Took 0.070732 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2019.09.15-19.42.35:240][367]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2019.09.15-19.42.35:240][367]LogLoad: LoadMap: 127.0.0.1:17777//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2019.09.15-19.42.35:240][367]LogWorld: BeginTearingDown for /Temp/Untitled_179
+[2019.09.15-19.42.35:240][367]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.35:295][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.09.15-19.42.35:311][367]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.35:312][367]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.35:314][367]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.35
+[2019.09.15-19.42.35:314][367]LogWorld: Bringing up level for play took: 0.001711
+[2019.09.15-19.42.35:314][367]LogLoad: Took 0.075167 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2019.09.15-19.42.35:326][368]LogNet: Client netspeed is 10000
+[2019.09.15-19.42.35:326][368]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA?SplitscreenCount=1
+[2019.09.15-19.42.35:327][368]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.35:331][368]LogNet: Join succeeded: DESKTOP-FEA62MM-B434
+[2019.09.15-19.42.35:331][368]LogNet: Client netspeed is 10000
+[2019.09.15-19.42.35:331][368]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166?SplitscreenCount=1
+[2019.09.15-19.42.35:332][368]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.35:335][368]LogNet: Join succeeded: DESKTOP-FEA62MM-B24F
+[2019.09.15-19.42.35:359][369]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.35:359][369]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.35:364][369]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.35:365][369]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.37:235][526]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.42.38:866][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-19.42.40:432][752]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.42.45:779][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-19.42.47:043][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.47:044][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.47:044][251]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap
+[2019.09.15-19.42.47:058][251]LogSlate: Window 'shootemup Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.15-19.42.47:061][251]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.47:070][251]LogNet: World NetDriver shutdown IpNetDriver_345 [GameNetDriver]
+[2019.09.15-19.42.47:070][251]LogNet: DestroyNamedNetDriver IpNetDriver_345 [GameNetDriver]
+[2019.09.15-19.42.47:071][251]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_355, Driver: GameNetDriver IpNetDriver_345, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166, Channels: 30, Time: 2019.09.15-19.42.47
+[2019.09.15-19.42.47:071][251]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_355, Driver: GameNetDriver IpNetDriver_345, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166
+[2019.09.15-19.42.47:071][251]LogExit: GameNetDriver IpNetDriver_345 shut down
+[2019.09.15-19.42.47:071][251]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap
+[2019.09.15-19.42.47:071][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.47:072][251]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.47:079][251]LogNet: World NetDriver shutdown IpNetDriver_344 [GameNetDriver]
+[2019.09.15-19.42.47:079][251]LogNet: DestroyNamedNetDriver IpNetDriver_344 [GameNetDriver]
+[2019.09.15-19.42.47:079][251]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_354, Driver: GameNetDriver IpNetDriver_344, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA, Channels: 30, Time: 2019.09.15-19.42.47
+[2019.09.15-19.42.47:079][251]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_354, Driver: GameNetDriver IpNetDriver_344, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA
+[2019.09.15-19.42.47:080][251]LogExit: GameNetDriver IpNetDriver_344 shut down
+[2019.09.15-19.42.47:080][251]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2019.09.15-19.42.47:080][251]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.47:081][251]LogNet: World NetDriver shutdown IpNetDriver_343 [GameNetDriver]
+[2019.09.15-19.42.47:081][251]LogNet: DestroyNamedNetDriver IpNetDriver_343 [GameNetDriver]
+[2019.09.15-19.42.47:081][251]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64139, Name: IpConnection_357, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166
+[2019.09.15-19.42.47:081][251]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64139, Name: IpConnection_357, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166, Channels: 30, Time: 2019.09.15-19.42.47
+[2019.09.15-19.42.47:081][251]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64139, Name: IpConnection_357, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-B24F5A1248154AA0F5E934AB8EE4C166
+[2019.09.15-19.42.47:082][251]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64138, Name: IpConnection_356, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA
+[2019.09.15-19.42.47:082][251]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64138, Name: IpConnection_356, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA, Channels: 30, Time: 2019.09.15-19.42.47
+[2019.09.15-19.42.47:082][251]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64138, Name: IpConnection_356, Driver: GameNetDriver IpNetDriver_343, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-B434A5944CAB49E42D4707AF88EF81FA
+[2019.09.15-19.42.47:082][251]LogExit: GameNetDriver IpNetDriver_343 shut down
+[2019.09.15-19.42.47:083][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.15-19.42.47:083][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.47:131][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.47:144][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.09.15-19.42.47:154][252]LogPlayLevel: Display: Destroying online subsystem :Context_411
+[2019.09.15-19.42.47:154][252]LogPlayLevel: Display: Destroying online subsystem :Context_410
+[2019.09.15-19.42.47:154][252]LogPlayLevel: Display: Destroying online subsystem :Context_409
+[2019.09.15-19.42.55:818][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.55:818][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.15-19.42.55:818][285]PIE: New page: PIE session: TopDownExampleMap (15 sept. 2019 23:42:55)
+[2019.09.15-19.42.55:819][285]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2019.09.15-19.42.55:835][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015437s)
+[2019.09.15-19.42.55:836][285]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.55:836][285]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2019.09.15-19.42.55:837][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap (0.017424s)
+[2019.09.15-19.42.55:883][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.09.15-19.42.55:883][285]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.09.15-19.42.55:884][285]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.55
+[2019.09.15-19.42.55:885][285]LogWorld: Bringing up level for play took: 0.001153
+[2019.09.15-19.42.55:885][285]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.55:885][285]LogTemp: Display: ParseSettings for IpNetDriver_346
+[2019.09.15-19.42.55:885][285]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.55:885][285]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.09.15-19.42.55:885][285]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.09.15-19.42.55:885][285]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.09.15-19.42.55:886][285]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.55:886][285]LogNet: GameNetDriver IpNetDriver_346 IpNetDriver listening on port 17777
+[2019.09.15-19.42.55:886][285]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap 0,769
+[2019.09.15-19.42.55:902][285]LogInit: XAudio2 using 'Casque pour téléphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.15-19.42.55:911][285]LogInit: FAudioDevice initialized.
+[2019.09.15-19.42.55:917][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.55:917][285]LogNet: Browse: 127.0.0.1:17777//Game/TopDownBP/Maps/TopDownExampleMap
+[2019.09.15-19.42.55:918][285]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.55:918][285]LogTemp: Display: ParseSettings for IpNetDriver_347
+[2019.09.15-19.42.55:918][285]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.09.15-19.42.55:918][285]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.09.15-19.42.55:918][285]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.55:918][285]LogNet: Game client on port 17777, rate 10000
+[2019.09.15-19.42.55:921][285]PIE: Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0,804
+[2019.09.15-19.42.55:926][285]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.42.55:932][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.42.55:932][285]LogNet: Browse: 127.0.0.1:17777//Game/TopDownBP/Maps/TopDownExampleMap
+[2019.09.15-19.42.55:932][285]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.55:932][285]LogTemp: Display: ParseSettings for IpNetDriver_348
+[2019.09.15-19.42.55:932][285]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.09.15-19.42.55:932][285]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.09.15-19.42.55:933][285]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.55:933][285]LogNet: Game client on port 17777, rate 10000
+[2019.09.15-19.42.55:934][285]PIE: Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0,818
+[2019.09.15-19.42.55:938][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.42.55:938][285]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59921
+[2019.09.15-19.42.55:938][285]LogHandshake: SendConnectChallenge. Timestamp: 0.008336, Cookie: 093178049180185241036016148133191239102130247058076220245007
+[2019.09.15-19.42.55:938][285]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59922
+[2019.09.15-19.42.55:938][285]LogHandshake: SendConnectChallenge. Timestamp: 0.008336, Cookie: 123210097104122120003116221072131225036255175065216089046169
+[2019.09.15-19.42.55:939][285]LogOnline: OSS: Creating online subsystem instance for: :Context_412
+[2019.09.15-19.42.55:940][285]LogHandshake: SendChallengeResponse. Timestamp: 0.008336, Cookie: 093178049180185241036016148133191239102130247058076220245007
+[2019.09.15-19.42.55:942][285]LogHandshake: SendChallengeResponse. Timestamp: 0.008336, Cookie: 123210097104122120003116221072131225036255175065216089046169
+[2019.09.15-19.42.56:002][286]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59921
+[2019.09.15-19.42.56:002][286]LogHandshake: SendChallengeAck. InCookie: 093178049180185241036016148133191239102130247058076220245007
+[2019.09.15-19.42.56:002][286]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59921
+[2019.09.15-19.42.56:002][286]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.56:003][286]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 09/15/19 21:42:56, [UNetConnection] RemoteAddr: 127.0.0.1:59921, Name: IpConnection_360, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:003][286]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59921, Name: IpConnection_360, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:003][286]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59922
+[2019.09.15-19.42.56:003][286]LogHandshake: SendChallengeAck. InCookie: 123210097104122120003116221072131225036255175065216089046169
+[2019.09.15-19.42.56:003][286]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59922
+[2019.09.15-19.42.56:004][286]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.09.15-19.42.56:004][286]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 09/15/19 21:42:56, [UNetConnection] RemoteAddr: 127.0.0.1:59922, Name: IpConnection_361, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:004][286]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59922, Name: IpConnection_361, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:005][286]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_358, Driver: PendingNetDriver IpNetDriver_347, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:005][286]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_359, Driver: PendingNetDriver IpNetDriver_348, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.09.15-19.42.56:014][287]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2019.09.15-19.42.56:014][287]LogNet: Remote platform little endian=1
+[2019.09.15-19.42.56:014][287]LogNet: This platform little endian=1
+[2019.09.15-19.42.56:014][287]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2019.09.15-19.42.56:014][287]LogNet: Remote platform little endian=1
+[2019.09.15-19.42.56:014][287]LogNet: This platform little endian=1
+[2019.09.15-19.42.56:015][287]LogOnline: OSS: Creating online subsystem instance for: :Context_413
+[2019.09.15-19.42.56:017][287]LogOnline: OSS: Creating online subsystem instance for: :Context_414
+[2019.09.15-19.42.56:028][288]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D userId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D platform: NULL
+[2019.09.15-19.42.56:029][288]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F userId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F platform: NULL
+[2019.09.15-19.42.56:029][288]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2019.09.15-19.42.56:030][288]LogLoad: LoadMap: 127.0.0.1:17777//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2019.09.15-19.42.56:030][288]LogWorld: BeginTearingDown for /Temp/Untitled_180
+[2019.09.15-19.42.56:030][288]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.56:072][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.09.15-19.42.56:087][288]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.56:087][288]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.56:096][288]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.56
+[2019.09.15-19.42.56:096][288]LogWorld: Bringing up level for play took: 0.007697
+[2019.09.15-19.42.56:096][288]LogLoad: Took 0.066387 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2019.09.15-19.42.56:097][288]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2019.09.15-19.42.56:097][288]LogLoad: LoadMap: 127.0.0.1:17777//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2019.09.15-19.42.56:097][288]LogWorld: BeginTearingDown for /Temp/Untitled_181
+[2019.09.15-19.42.56:097][288]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.42.56:157][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.09.15-19.42.56:171][288]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.15-19.42.56:171][288]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.09.15-19.42.56:177][288]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.15-21.42.56
+[2019.09.15-19.42.56:177][288]LogWorld: Bringing up level for play took: 0.004880
+[2019.09.15-19.42.56:177][288]LogLoad: Took 0.080338 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2019.09.15-19.42.56:189][289]LogNet: Client netspeed is 10000
+[2019.09.15-19.42.56:189][289]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D?SplitscreenCount=1
+[2019.09.15-19.42.56:190][289]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.56:192][289]LogNet: Join succeeded: DESKTOP-FEA62MM-C03B
+[2019.09.15-19.42.56:192][289]LogNet: Client netspeed is 10000
+[2019.09.15-19.42.56:192][289]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?Name=DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F?SplitscreenCount=1
+[2019.09.15-19.42.56:192][289]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.56:194][289]LogNet: Join succeeded: DESKTOP-FEA62MM-91F9
+[2019.09.15-19.42.56:223][290]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.56:223][290]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.56:227][290]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.42.56:227][290]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.09.15-19.43.08:057][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-19.43.14:109][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-19.43.56:373][466]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.43.57:096][471]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.44.12:372][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-19.48.46:927][671]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.15-19.48.47:664][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.48.47:664][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.48.47:664][718]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap
+[2019.09.15-19.48.47:679][718]LogSlate: Window 'shootemup Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.15-19.48.47:682][718]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.47:784][718]LogNet: World NetDriver shutdown IpNetDriver_348 [GameNetDriver]
+[2019.09.15-19.48.47:784][718]LogNet: DestroyNamedNetDriver IpNetDriver_348 [GameNetDriver]
+[2019.09.15-19.48.47:784][718]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_359, Driver: GameNetDriver IpNetDriver_348, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F, Channels: 57, Time: 2019.09.15-19.48.47
+[2019.09.15-19.48.47:784][718]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_359, Driver: GameNetDriver IpNetDriver_348, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F
+[2019.09.15-19.48.47:785][718]LogExit: GameNetDriver IpNetDriver_348 shut down
+[2019.09.15-19.48.47:785][718]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap
+[2019.09.15-19.48.47:785][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-19.48.47:800][718]LogSlate: Window 'shootemup Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.15-19.48.47:803][718]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.47:813][718]LogNet: World NetDriver shutdown IpNetDriver_347 [GameNetDriver]
+[2019.09.15-19.48.47:813][718]LogNet: DestroyNamedNetDriver IpNetDriver_347 [GameNetDriver]
+[2019.09.15-19.48.47:813][718]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_358, Driver: GameNetDriver IpNetDriver_347, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D, Channels: 57, Time: 2019.09.15-19.48.47
+[2019.09.15-19.48.47:813][718]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_358, Driver: GameNetDriver IpNetDriver_347, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D
+[2019.09.15-19.48.47:814][718]LogExit: GameNetDriver IpNetDriver_347 shut down
+[2019.09.15-19.48.47:814][718]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2019.09.15-19.48.47:815][718]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.47:816][718]LogNet: World NetDriver shutdown IpNetDriver_346 [GameNetDriver]
+[2019.09.15-19.48.47:816][718]LogNet: DestroyNamedNetDriver IpNetDriver_346 [GameNetDriver]
+[2019.09.15-19.48.47:816][718]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:59922, Name: IpConnection_361, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F
+[2019.09.15-19.48.47:816][718]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59922, Name: IpConnection_361, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F, Channels: 57, Time: 2019.09.15-19.48.47
+[2019.09.15-19.48.47:816][718]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59922, Name: IpConnection_361, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:DESKTOP-FEA62MM-91F959EB43A0DE30440223A01226507F
+[2019.09.15-19.48.47:816][718]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:59921, Name: IpConnection_360, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D
+[2019.09.15-19.48.47:816][718]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59921, Name: IpConnection_360, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D, Channels: 57, Time: 2019.09.15-19.48.47
+[2019.09.15-19.48.47:816][718]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59921, Name: IpConnection_360, Driver: GameNetDriver IpNetDriver_346, IsServer: YES, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:DESKTOP-FEA62MM-C03B039446A06F9CFA24DD9CF0EF423D
+[2019.09.15-19.48.47:817][718]LogExit: GameNetDriver IpNetDriver_346 shut down
+[2019.09.15-19.48.47:818][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.15-19.48.47:818][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.15-19.48.47:878][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.09.15-19.48.47:892][719]LogPlayLevel: Display: Destroying online subsystem :Context_414
+[2019.09.15-19.48.47:892][719]LogPlayLevel: Display: Destroying online subsystem :Context_413
+[2019.09.15-19.48.47:892][719]LogPlayLevel: Display: Destroying online subsystem :Context_412
+[2019.09.15-19.48.50:962][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.09.15-19.48.51:448][ 77]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.15-19.48.51:448][ 77]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.51:999][ 77]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.15-19.48.51:999][ 77]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.52:320][ 77]LogSlate: Window 'shootemup - Unreal Editor' being destroyed
+[2019.09.15-19.48.52:323][ 77]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.15-19.48.53:245][ 78]Cmd: QUIT_EDITOR
+[2019.09.15-19.48.54:051][ 78]LogExit: Preparing to exit.
+[2019.09.15-19.48.55:153][ 78]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:157][ 78]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:160][ 78]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:162][ 78]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:166][ 78]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:169][ 78]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:173][ 78]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:612][ 78]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.09.15-19.48.55:891][ 78]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.09.15-19.48.55:954][ 78]LogExit: Editor shut down
+[2019.09.15-19.48.55:964][ 78]LogExit: Transaction tracking system shut down
+[2019.09.15-19.48.58:432][ 78]LogExit: Object subsystem successfully closed.
+[2019.09.15-19.48.58:517][ 78]LogShaderCompilers: Display: Shaders left to compile 0
