@@ -584,3 +584,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.13-15.10.06:260][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
 [2019.10.13-15.10.06:305][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
 [2019.10.13-15.11.28:877][882]LogAudio: Warning: Waited 37.106903 ms for audio thread.
+[2019.10.13-15.12.49:075][591]LogAudio: Warning: Waited 46.931599 ms for audio thread.
+[2019.10.13-15.12.49:076][591]LogAudio: Warning: Waited 48.018700 ms for audio thread.
+[2019.10.13-15.12.54:665][891]LogAudio: Warning: Waited 35.275799 ms for audio thread.
+[2019.10.13-15.12.54:683][891]LogAudio: Warning: Waited 54.015499 ms for audio thread.
+[2019.10.13-15.12.55:814][953]LogAudio: Warning: Waited 37.544804 ms for audio thread.
+[2019.10.13-15.12.55:824][953]LogAudio: Warning: Waited 47.008102 ms for audio thread.
