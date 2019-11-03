@@ -1,49 +1,32 @@
 # Shootemup
+
 Prototype of a shoot'em up video game.
 
-## Roadmap
+## Objective
 
-My goals to achieve the prototype.
+Survive as long as you can!!!
 
-### Player Character
+## Install
 
-- [ ] Create Attack function
-- [ ] Create Collect function
-- [ ] Create Dead function
-- [ ] Movement input
-- [ ] Create level up function
-- [ ] Create Health bar like Zelda game
-- [ ] Create skill tree
-- [ ] Create inventory
-- [ ] Create attributs tree
-- [ ] Animation
+```markdown
+COMING SOON
+```
 
-### Foe
+## Control
 
-- [ ] Create Attack function
-- [ ] Create touch damage function
-- [ ] Create Dead function
-- [ ] Create IA
-- [ ] Create health
-- [ ] Create  xp drop function
-- [ ] Create resources drop function
-
-### World
-
-- [ ] No annoyance with the cursor
-- [ ] Random spawn foe
-- [ ] Safe base
-- [ ] Market PNJ
-- [ ] Random mesh on actor and foe
-
+`Left click to shoot`
+`ZQSD`to move around
+`Mouse to aim`
 
 ## Special thanks to
 
-Advanced Asset packs https://www.unrealengine.com/marketplace/en-US/slug/advanced-village-pack
+[Advanced Asset packs](https://www.unrealengine.com/marketplace/en-US/slug/advanced-village-pack)
 
-Rohit Kotiveetil https://github.com/RohitKotiveetil/UnrealEngine--DamageDisplaySystem
+[Rohit Kotiveetil](https://github.com/RohitKotiveetil/UnrealEngine--DamageDisplaySystem)
+ 
+[Alex Kim](https://www.youtube.com/watch?v=365SEITffBU) (was free month content)
 
-Alex Kim https://www.youtube.com/watch?v=365SEITffBU
+[Gamemaster Audio](https://www.unrealengine.com/marketplace/en-US/slug/retro-8bit-sounds) (was free month content)
 
 💙
 
