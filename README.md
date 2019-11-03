@@ -2,9 +2,11 @@
 
 Prototype of a shoot'em up video game.
 
+[![Watch a short gameplay video]](https://youtu.be/luFHxxdOkdY)
+
 ## Objective
 
-Survive as long as you can!!!
+Survive as long as you can!!! Knights are coming for you
 
 ## Install
 
@@ -14,9 +16,10 @@ COMING SOON
 
 ## Control
 
-`Left click to shoot`
-`ZQSD`to move around
-`Mouse to aim`
+- `Left click to shoot`
+- `ZQSD`to move around
+- `Mouse to aim`
+- `P` to pause
 
 ## Special thanks to
 
