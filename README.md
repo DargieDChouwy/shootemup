@@ -11,6 +11,8 @@ Survive as long as you can!!! Knights are coming for you
 - Download for W32 : https://mega.nz/#F!1ohwHSTZ!6mojFK6jpGq6Fjx_eSg4YA 
 - Download for W64 : https://mega.nz/#F!h94QmYQZ!Og6QhaqBHS63PkWBa4mdvg
 
+![Where](http://prntscr.com/psaezf)
+
 Open the folder, go to WindowsNoEditor then double click on shootemup.exe.
 
 Enjoy!
