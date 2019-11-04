@@ -2,8 +2,8 @@
 
 Prototype of a shoot'em up video game.
 
-![](https://media.giphy.com/media/KzJO9Y38i3VIN7qAhg/giphy.gif)
-
+![](https://s5.gifyu.com/images/Defenser4.gif)
+https://s5.gifyu.com/images/Defenser4.gif
 ## Objective
 
 Survive as long as you can!!! Knights are coming for you
