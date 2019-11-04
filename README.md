@@ -2,7 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
-![](https://media.giphy.com/media/MZinx7P2Fwg0i4tXVo/giphy.gif)
+![](https://s5.gifyu.com/images/Defenser4.gif)
 
 ## Objective
 
