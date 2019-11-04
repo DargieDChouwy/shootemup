@@ -2,6 +2,9 @@
 
 Prototype of a shoot'em up video game.
 
+
+![Short video gameplay](https://media.giphy.com/media/PkcYJlK8K7uN5IhDB4/giphy.gif)
+
 ## Objective
 
 Survive as long as you can!!! Knights are coming for you
