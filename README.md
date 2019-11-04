@@ -2,6 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
+![React resizer component](https://media.giphy.com/media/RiJu2dqj3lsu3Xgi5r/giphy.gif)
 
 ![Short video gameplay](https://media.giphy.com/media/PkcYJlK8K7uN5IhDB4/giphy.gif)
 
