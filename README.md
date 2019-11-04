@@ -2,9 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
-![React resizer component](https://media.giphy.com/media/PkcYJlK8K7uN5IhDB4/giphy.gif)
-
-![Short video gameplay](https://media.giphy.com/media/PkcYJlK8K7uN5IhDB4/giphy.gif)
+![Short video gameplay](https://media.giphy.com/media/MZinx7P2Fwg0i4tXVo/giphy.gif)
 
 ## Objective
 
