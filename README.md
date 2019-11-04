@@ -2,7 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
-![](https://s5.gifyu.com/images/Defenser4.gif)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Objective
 
