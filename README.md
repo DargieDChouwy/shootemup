@@ -2,7 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://media.giphy.com/media/KbGgyU6w9Wq89O49AQ/giphy.gif "Logo Title Text 1")
 
 ## Objective
 
