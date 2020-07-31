@@ -2,9 +2,7 @@
 
 Prototype of a shoot'em up video game.
 
-![Short video gameplay](https://media.giphy.com/media/KzJO9Y38i3VIN7qAhg/giphy.gif)
-
-If link doesn't work : https://media.giphy.com/media/KzJO9Y38i3VIN7qAhg/giphy.gif
+[![Short video gameplay](https://j.gifs.com/QnEkm9.gif)](https://youtu.be/luFHxxdOkdY?list=PLMMKfEpf2grofFZVwigdWxj28rHk0uvtZ)
 
 ## Objective
 
@@ -15,8 +13,7 @@ Survive as long as you can!!! Knights are coming for you
 - Download for W32 : https://mega.nz/#F!1ohwHSTZ!6mojFK6jpGq6Fjx_eSg4YA 
 - Download for W64 : https://mega.nz/#F!h94QmYQZ!Og6QhaqBHS63PkWBa4mdvg
 
-![Where](https://prnt.sc/psaezf)
-If link doesn't work : https://prnt.sc/psaezf
+![Download](https://prnt.sc/psaezf)
 
 Open the folder, go to WindowsNoEditor then double click on shootemup.exe.
 
